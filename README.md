@@ -30,17 +30,17 @@ A script telepíti a Docker-t és a Docker Compose plugint, létrehozza a konté
 
 1. Hozz létre egy fájlt:  
    ```bash
-   nano installer.sh
+   nano qbittorrent_docker_v2.sh
 
 2. Másold bele a telepítő script teljes tartalmát, majd mentsd el!
 
 3. Adj futási jogot:  
    ```bash
-   chmod +x installer.sh
+   chmod +x qbittorrent_docker_v2.sh
 
 4. Futtasd:  
    ```bash
-   sudo ./installer.sh
+   sudo ./qbittorrent_docker_v2.sh
 
 6. Add meg a domaint (pl. `torrent.domain.hu`).
 
