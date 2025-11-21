@@ -94,4 +94,4 @@ A script végén automatikusan kiírja:
 ## ✍ Készítette
 
 **Doky**  
-2025
+2025.11.21
