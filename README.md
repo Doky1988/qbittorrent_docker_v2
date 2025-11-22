@@ -130,4 +130,4 @@ Egyszerű, biztonságos és karbantartható módja a rendszer naprakészen tart�
 ## ✍ Készítette
 
 **Doky**  
-2025.11.21
+2025.11.22
