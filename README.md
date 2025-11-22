@@ -103,18 +103,18 @@ Ez a script leegyszerűsíti a qBittorrent és Caddy konténerek frissítését.
 
 1) Hozd létre a fájlt:
    ```bash
-   nano /opt/qbittorrent-caddy/update.sh
+   nano /opt/qbittorrent-caddy/qbittorrent_docker_v2_update.sh
 
 2) Másold bele a frissítési script teljes tartalmát → mentsd:  
    CTRL+O, ENTER, CTRL+X
 
 3) Adj futási jogot:  
    ```bash
-   chmod +x /opt/qbittorrent-caddy/update.sh
+   chmod +x /opt/qbittorrent-caddy/qbittorrent_docker_v2_update.sh
 
 4) Indítsd el a frissítést:  
    ```bash
-   sudo /opt/qbittorrent-caddy/update.sh
+   sudo /opt/qbittorrent-caddy/qbittorrent_docker_v2_update.sh
 
 ### 🛠 Mit csinál?
 
